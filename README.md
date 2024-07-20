@@ -1,6 +1,8 @@
 # Boardify Application
 
 A Kanban application built with React.js, Firebase, Drag & Drop, Material-UI (MUI) v5, and Zustand. This application allows users to manage tasks and workflows with a user-friendly interface.
+![Screenshot 2024-07-20 232330](https://github.com/user-attachments/assets/0c052abe-e7e3-4c6c-8d0c-90e702cfe96c)
+
 
 ## Features
 
@@ -66,6 +68,12 @@ You can copy it and use it directly
 - **Add Lists and Cards: Add lists to boards and cards to lists to represent tasks.**
 - **Drag and Drop: Drag and drop cards between lists to change their status or workflow stage.**
 - **Task Details: Click on a card to view and edit task details, such as description, due date, and attachments.**
+
+## ScreenShots : 
+# ![Screenshot 2024-07-20 232120](https://github.com/user-attachments/assets/5f32bcdd-6600-40da-b140-9203ae0f1f9e)
+# ![Screenshot 2024-07-20 232136](https://github.com/user-attachments/assets/c206bae2-80fa-4f7b-82f8-b465db84161b)
+# ![Screenshot 2024-07-20 232149](https://github.com/user-attachments/assets/2a76cbaa-a4d8-4f9b-900d-575ec79506bd)
+# ![Screenshot 2024-07-20 231001](https://github.com/user-attachments/assets/cf98bdf3-633b-4b85-a6da-bf1baad9603d)
 
 
 ## Contributing
