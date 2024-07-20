@@ -27,16 +27,16 @@ Acknowledgments
 
 ### Steps
 
-# 1. Clone the repository:
+## 1. Clone the repository:
       ```bash
          git clone https://github.com/Dev-Harshxl/Boardify--Kanban-.git
 
 
-# 2.   Install the dependencies:
+## 2.   Install the dependencies:
       ```bash
          npm install
 
-# 3. Set up Firebase:
+## 3. Set up Firebase:
 
 - **Go to the Firebase Console.**
 - **Create a new project or use an existing one.**
@@ -55,11 +55,11 @@ Note: - This above code is already written inside your firebase console.
 You can copy it and use it directly
 
 
-# 4. Start the development server:
+## 4. Start the development server:
       ```bash
          npm start
          
-# 5. Usage
+## 5. Usage
 
 - **User Registration and Login: Register a new account or log in with existing credentials.**
 - **Create Boards: Create new boards for different projects or workflows.**
@@ -68,5 +68,5 @@ You can copy it and use it directly
 - **Task Details: Click on a card to view and edit task details, such as description, due date, and attachments.**
 
 
-# Contributing
+## Contributing
 Contributions are welcome! 
